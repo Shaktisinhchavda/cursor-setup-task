@@ -1,5 +1,19 @@
 # Cursor Setup Task
 
+## Research Project
+Chosen topic: YouTube content strategy for B2B SaaS.
+
+This repository will be built gradually as a research project. The goal is to collect high-signal material from practitioners who actively teach, publish, or execute B2B SaaS video and YouTube strategy.
+
+## Research Structure
+- `research/sources.md` - expert shortlist, links, dates, and notes
+- `research/youtube-transcripts/` - collected YouTube transcripts
+- `research/linkedin-posts/` - collected LinkedIn posts
+- `research/other/` - supporting articles, podcast notes, and collection logs
+
+## Current Stage
+Stage 1: Topic selected and repository structure created.
+
 ## Tools Installed
 - Cursor IDE
 - GitHub
