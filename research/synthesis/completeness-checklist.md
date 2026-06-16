@@ -27,12 +27,15 @@ Use this before final submission.
 - [x] latest-video RSS metadata collected
 - [x] transcript target list created
 - [x] transcript fetch attempts logged
-- [ ] actual transcript text collected
+- [x] per-video transcript collection notes added
+- [x] actual transcript text collected for 9 of 10 targets
 
 ## LinkedIn Collection
 
 - [x] LinkedIn targets selected
 - [x] author folders created for first priority people
+- [x] public profile/activity access checked and logged
+- [x] manual import template and importer script created
 - [ ] real post text collected
 - [ ] original post URLs recorded
 - [ ] notes added for each collected post
@@ -60,6 +63,5 @@ Use this before final submission.
 - [x] topic is clear
 - [x] structure is explained
 - [x] collection progress is explained
-- [ ] final collected-source count updated after transcripts/LinkedIn posts
-- [ ] final limitations section updated
-
+- [x] final collected-source count summarized
+- [x] final limitations section updated

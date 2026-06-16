@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "collect:youtube-transcripts": "node tools/collect-youtube-transcripts.js"
+  },
+  "dependencies": {
+    "youtube-transcript": "^1.3.1"
+  }
+}

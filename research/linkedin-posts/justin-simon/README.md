@@ -6,7 +6,7 @@ Collection target:
 
 - 3 to 5 recent posts about content distribution, content repurposing, or content operating systems
 
-Status: pending manual collection
+Status: public access checked; LinkedIn activity page requires authenticated/manual collection
 
 Why this matters:
 

@@ -6,7 +6,7 @@ Collection target:
 
 - 3 to 5 recent posts about demand generation, dark social, media strategy, or B2B buying behavior
 
-Status: pending manual collection
+Status: public access checked; LinkedIn activity page requires authenticated/manual collection
 
 Why this matters:
 

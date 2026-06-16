@@ -16,7 +16,7 @@ research/other/transcript-fetch-attempts.csv
 
 ## Result
 
-The script attempted to access the public YouTube watch pages for the 10 selected transcript targets. In this environment, those direct watch-page requests returned `404 Not Found`, so transcript text was not collected in this batch.
+The script attempted to access caption metadata and timed-text transcript endpoints for the 10 selected transcript targets. In this environment, transcript endpoint requests returned `404 Not Found`, so transcript text was not collected in this batch.
 
 ## Interpretation
 
@@ -25,15 +25,14 @@ This does not mean the videos are bad research targets. They were selected from 
 - video availability changes
 - regional access differences
 - YouTube request restrictions
-- caption access requiring browser context or a transcript API
+- caption URLs requiring browser context, signed parameters, or a transcript API
 
 ## Next Practical Step
 
-Use one of these methods for the next batch:
+This was followed up with the `youtube-transcript` npm package via `tools/collect-youtube-transcripts.js`.
 
-- Supadata transcript API
-- YouTube transcript copy from the browser
-- another authenticated transcript service
-- manual transcript export for the highest-value videos
+Result:
 
-Until transcript text is actually collected, these files should remain metadata and collection logs only.
+- 9 of 10 selected transcripts were collected.
+- Results are logged in `research/other/youtube-transcript-api-results.csv`.
+- Transcript files are stored in `research/youtube-transcripts/collected/`.
