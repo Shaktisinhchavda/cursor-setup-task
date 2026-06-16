@@ -12,7 +12,7 @@ This repository will be built gradually as a research project. The goal is to co
 - `research/other/` - supporting articles, podcast notes, and collection logs
 
 ## Current Stage
-Stage 5: Playbook planning artifacts added.
+Stage 6: SaaS YouTube channel examples added.
 
 ## Why This Topic
 YouTube is becoming a stronger B2B SaaS channel because buyers increasingly research products, categories, and operators before speaking to sales. This project focuses on practitioners who connect video, demand generation, content distribution, and SaaS go-to-market execution.
@@ -32,6 +32,7 @@ YouTube is becoming a stronger B2B SaaS channel because buyers increasingly rese
 - Public source notes added in `research/other/`
 - Initial playbook outline and measurement framework added in `research/synthesis/`
 - Content pillar matrix, 90-day calendar, source scoring rubric, and research gaps added in `research/synthesis/`
+- SaaS YouTube channel examples added in `research/company-examples/`
 
 ## Tools Installed
 - Cursor IDE

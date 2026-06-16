@@ -48,13 +48,13 @@ Highest-priority people:
 Current state:
 
 - company channels identified through YouTube RSS
+- initial mini case notes added in `research/company-examples/`
 
 Needed:
 
-- 3 to 5 examples of SaaS companies using YouTube well
-- notes on format, audience, title strategy, and distribution
+- optional deeper review with screenshots, transcripts, or manually collected channel page notes
 
-Candidate channels:
+Covered channels:
 
 - HubSpot Hacks
 - Wistia
