@@ -12,7 +12,16 @@ This repository will be built gradually as a research project. The goal is to co
 - `research/other/` - supporting articles, podcast notes, and collection logs
 
 ## Current Stage
-Stage 1: Topic selected and repository structure created.
+Stage 2: Expert shortlist and collection workflow drafted.
+
+## Why This Topic
+YouTube is becoming a stronger B2B SaaS channel because buyers increasingly research products, categories, and operators before speaking to sales. This project focuses on practitioners who connect video, demand generation, content distribution, and SaaS go-to-market execution.
+
+## Research Goals
+- Identify 10 high-signal experts worth studying
+- Collect recent YouTube, LinkedIn, podcast, or blog content from each expert
+- Extract repeatable patterns for a later YouTube content playbook
+- Separate SaaS-specific advice from generic creator advice
 
 ## Tools Installed
 - Cursor IDE
