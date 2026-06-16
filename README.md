@@ -12,7 +12,7 @@ This repository will be built gradually as a research project. The goal is to co
 - `research/other/` - supporting articles, podcast notes, and collection logs
 
 ## Current Stage
-Stage 2: Expert shortlist and collection workflow drafted.
+Stage 3: Expert shortlist, public YouTube metadata, transcript targets, and collection attempt logs added.
 
 ## Why This Topic
 YouTube is becoming a stronger B2B SaaS channel because buyers increasingly research products, categories, and operators before speaking to sales. This project focuses on practitioners who connect video, demand generation, content distribution, and SaaS go-to-market execution.
@@ -22,6 +22,13 @@ YouTube is becoming a stronger B2B SaaS channel because buyers increasingly rese
 - Collect recent YouTube, LinkedIn, podcast, or blog content from each expert
 - Extract repeatable patterns for a later YouTube content playbook
 - Separate SaaS-specific advice from generic creator advice
+
+## Collection Progress
+- Expert shortlist created in `research/sources.md`
+- Public YouTube handle metadata collected in `research/other/youtube-handle-check.csv`
+- Recent public YouTube RSS uploads collected in `research/other/youtube-latest-videos.csv`
+- Transcript targets selected in `research/youtube-transcripts/transcript-targets.md`
+- Transcript fetch attempts logged in `research/other/transcript-fetch-attempts.csv`
 
 ## Tools Installed
 - Cursor IDE
